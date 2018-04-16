@@ -11,7 +11,7 @@ Artifactory CLI:
 
 Maven package
 * https://jfrog.com/blog/gitlab-and-artifactory-on-your-mark-get-set-build/
-
+* https://jfrog.com/blog/accelerate-your-finance-devops-experience-with-jfrog-artifactory/
 
 Devops insight:
 * https://jfrog.com/blog/leap-forward-and-be-proactive-with-devops-insights/
