@@ -2,6 +2,8 @@
 
 NPM package
 * https://jfrog.com/blog/npm-flies-with-jfrog-cli/
+* https://jfrog.com/blog/fully-reproducible-builds-with-circleci-and-artifactory/
+* https://github.com/JFrogDev/project-examples/tree/master/circleci-example
 
 Artifactory CLI:
 * https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-BuildIntegration
@@ -9,3 +11,10 @@ Artifactory CLI:
 
 Maven package
 * https://jfrog.com/blog/gitlab-and-artifactory-on-your-mark-get-set-build/
+
+
+Devops insight:
+* https://jfrog.com/blog/leap-forward-and-be-proactive-with-devops-insights/
+
+JFrog Security:
+* https://jfrog.com/blog/content-driven-component-analysis/
